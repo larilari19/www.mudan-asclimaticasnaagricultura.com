@@ -1,0 +1,43 @@
+body {
+    background-color:#c8e6c9 ;
+}
+header {
+  background-color: #4caf50;
+  color: black;
+  padding: 30px;
+  text-align: center; 
+}
+
+h2 {
+    color: #719e72;
+    text-align: center;
+}
+  h3 {
+    color:#4b8f43 ;
+    text-align: center;
+    font-size: 21px;
+  }
+  p {
+text-align: center;
+
+  }
+div h2{ text-align: end;
+
+
+}
+div p {
+
+    font-size: 20px;
+}
+div h3 {
+color: #abe9ae;
+
+}
+p {
+    font-size: 20px;
+}
+h1 {
+    color:#D4E8C3 ;
+    font-size: 40px;
+      font-family: 'Playfair Display', serif; 
+}
